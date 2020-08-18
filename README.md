@@ -4,7 +4,7 @@
 
 ## What is the RTCPM?
 
-The Right-To-Control Public Manifesto is a GPL-like public writeup to be used as a base for a posible extended Right-To-Repair law in the United States and all over the world. However, it's more than Right-To-Repair, since it also stands for even more freedom for consumers and device owners.
+The Right-To-Control Public Manifesto is a GPL-like public writeup to be used as a base for a possible extended Right-To-Repair law in the United States and all over the world. However, it's more than Right-To-Repair, since it also stands for even more freedom for consumers and device owners.
 
 ## Why?
 
