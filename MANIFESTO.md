@@ -15,3 +15,5 @@ We also define the different ("STATUS") of devices. In this document, the word "
 3. "No manufacturer, company, organization or agency shall disable, suspend, or otherwise refuse to provide a service to the device, if the reason for the disabling, suspension, or refusal to provide said service is, entirely or in part, the refusal of the owner to disclose the status (either "intact" or "modified") of said device.
 
 4. “Any possible method of remote control, updating, or otherwise modifying any instances and/or layers of the software on the device by the manufacturer, company or agency shall be disclosed to the owner of the device before purchase.”
+
+5. "If the manufacturer decides not to publish the signing keys for the highest (in privilege/chain of trust) writable software/firmware of a device, and opt for using a temporary key that's given to each owner to enable full control, said key must be given to the end user after the device's adquisition, and in accordance to clause (3), the use of that key shall not be notified to any entity but the end user. (For example, via a screen message or warning at boot time)"
